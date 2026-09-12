@@ -5,6 +5,7 @@ using vnavmesh.Build.Scene;
 namespace vnavmesh.Build.Custom.Implementations.Territory.Dungeon;
 
 [CustomizationTerritory(171)]
+[CustomizationTerritory(1330)]
 internal class Z0171山中战线泽梅尔要塞 : NavmeshCustomization
 {
     public override int Version => 2;
